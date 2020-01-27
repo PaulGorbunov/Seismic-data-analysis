@@ -1,5 +1,9 @@
 '''
+Segio:
 https://github.com/equinor/segyio
+
+Tutorial :
+https://github.com/seg/tutorials-2015/blob/master/1512_Semblance_coherence_and_discontinuity/Discontinuity_tutorial.ipynb
 '''
 import numpy as np
 import matplotlib.pyplot as plt
